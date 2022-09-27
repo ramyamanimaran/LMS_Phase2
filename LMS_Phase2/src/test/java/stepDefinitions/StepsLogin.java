@@ -4,14 +4,28 @@ package stepDefinitions;
 
 
 import org.junit.Assert;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import com.aventstack.extentreports.gherkin.model.Scenario;
+
+import io.cucumber.java.After;
+import io.cucumber.java.AfterStep;
+import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
+import pageObjects.AddNewPrgm;
+import pageObjects.DelProgram;
+import pageObjects.Delete;
+import pageObjects.Edit;
+import pageObjects.Footer;
+import pageObjects.Header;
 import pageObjects.LoginPage;
+import pageObjects.MultipleDele;
+import pageObjects.Sprogram;
 
 public class StepsLogin extends BaseClass
 
@@ -24,7 +38,6 @@ public class StepsLogin extends BaseClass
 		driver= new ChromeDriver();
 		
 		lp= new LoginPage(driver);
-		
 		
 	}
 	
@@ -75,9 +88,37 @@ public void user_opens_url(String url)
 		System.out.println("Closing driver");
 		driver.close();
 	}
+	/*Hooks
+	Scenario scn;
+
+	@Before
+	public void setUp(Scenario s){
+		this.scn =s;
+	}
+
 	
+	
+@AfterStep
+
+	public void screenshotSetUp(){
+	
+	TakesScreenshot
+		
+		{
+		TakesScreenshot ScreenShots = (TakesScreenshot)driver;
+		byte[] data= ScreenShots.getScreenshotAs(OutputType.BYTES);
+		scn.
+		//scn.attach(data, "image/png","ScreenShots");
+		}
+		
+		@After 
+		public void teardown() {
+			driver.close();
+		}*/
 	
 }
+	
+
 
 
 
