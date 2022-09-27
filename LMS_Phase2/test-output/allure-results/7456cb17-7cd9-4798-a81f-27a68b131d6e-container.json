@@ -1,0 +1,1 @@
+{"uuid":"7456cb17-7cd9-4798-a81f-27a68b131d6e","name":"Scenario: Click No","children":["3713f597-996c-4cd8-bf83-c554d9b7c204"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312962583,"stop":1664312962583}],"start":1664312950531,"stop":1664312962583}

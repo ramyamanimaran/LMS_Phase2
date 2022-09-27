@@ -1,0 +1,1 @@
+{"uuid":"8c38bcfe-7f60-45a5-a35d-870867e8c902","name":"Scenario: Search Assignment By Name","children":["ea52ebd8-a77e-4af0-bcbd-5db9481bc24a"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664310170430,"stop":1664310170434}],"start":1664310161969,"stop":1664310170434}

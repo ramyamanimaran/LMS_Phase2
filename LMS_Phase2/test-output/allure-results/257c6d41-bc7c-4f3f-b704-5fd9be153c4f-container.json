@@ -1,0 +1,1 @@
+{"uuid":"257c6d41-bc7c-4f3f-b704-5fd9be153c4f","name":"Scenario: Edit Assignment Name","children":["0b12c297-00d1-461f-82d1-a48868adde93"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664310247794,"stop":1664310247796}],"start":1664310242222,"stop":1664310247798}

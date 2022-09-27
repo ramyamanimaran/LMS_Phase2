@@ -1,0 +1,1 @@
+{"uuid":"c8ae267d-463e-478e-b830-feb5c47837d0","name":"Scenario: Delete Feature","children":["03f9fc98-8f64-4ce7-ad42-8a7b2513e756"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312940709,"stop":1664312940709}],"start":1664312929991,"stop":1664312940709}

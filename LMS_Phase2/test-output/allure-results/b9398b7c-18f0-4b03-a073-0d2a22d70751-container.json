@@ -1,0 +1,1 @@
+{"uuid":"b9398b7c-18f0-4b03-a073-0d2a22d70751","name":"Scenario: Select Batch","children":["d778b17f-105e-4e73-af98-91dac03b2af1"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312492559,"stop":1664312492568}],"start":1664312491978,"stop":1664312492569}

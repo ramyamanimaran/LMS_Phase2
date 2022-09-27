@@ -1,0 +1,1 @@
+{"uuid":"2f3018bc-5035-4826-83e0-20775cd0343c","name":"Scenario: Validate Search Feature","children":["18331d73-d664-4a9c-ba4c-fbeae1b65d7f"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312715070,"stop":1664312715070}],"start":1664312703715,"stop":1664312715070}

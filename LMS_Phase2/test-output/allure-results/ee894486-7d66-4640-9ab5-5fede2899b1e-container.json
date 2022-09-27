@@ -1,0 +1,1 @@
+{"uuid":"ee894486-7d66-4640-9ab5-5fede2899b1e","name":"Scenario Outline: Login Data Driven","children":["264205c0-5127-41c3-860b-defa7ad57c80"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664305128144,"stop":1664305128147}],"start":1664305121187,"stop":1664305128147}

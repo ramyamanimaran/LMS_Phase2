@@ -1,0 +1,1 @@
+{"uuid":"9fc1a4a3-ca2d-440e-8f31-7e922ff6473b","name":"Scenario: Verify table footer","children":["d50194e5-32f9-47b9-8d60-5f5794a0c7fd"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664313363190,"stop":1664313363190}],"start":1664313355402,"stop":1664313363190}

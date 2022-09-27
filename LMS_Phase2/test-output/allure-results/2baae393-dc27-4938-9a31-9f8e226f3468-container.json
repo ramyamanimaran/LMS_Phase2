@@ -1,0 +1,1 @@
+{"uuid":"2baae393-dc27-4938-9a31-9f8e226f3468","name":"Scenario: Delete multiple batches","children":["4b0ba258-b4a6-4ade-8ad1-1289c9dd3180"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312509802,"stop":1664312509806}],"start":1664312492751,"stop":1664312509806}

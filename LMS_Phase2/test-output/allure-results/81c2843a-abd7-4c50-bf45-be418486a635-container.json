@@ -1,0 +1,1 @@
+{"uuid":"81c2843a-abd7-4c50-bf45-be418486a635","name":"Scenario: Click Yes","children":["3f94ed5d-fa9f-4406-ace4-c7fe79f0d702"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312849433,"stop":1664312849433}],"start":1664312838830,"stop":1664312849433}

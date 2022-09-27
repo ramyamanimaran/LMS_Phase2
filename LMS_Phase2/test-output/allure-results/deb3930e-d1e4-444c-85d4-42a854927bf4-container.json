@@ -1,0 +1,1 @@
+{"uuid":"deb3930e-d1e4-444c-85d4-42a854927bf4","name":"Scenario: Verify next link","children":["32805e33-4635-479f-b28a-21a0774c170b"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312986908,"stop":1664312986908}],"start":1664312977973,"stop":1664312986908}

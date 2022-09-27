@@ -1,0 +1,1 @@
+{"uuid":"a4528e94-b599-40c6-adb4-30d7be3d9163","name":"Scenario: Select Assignment","children":["aa952a4c-609e-4fa4-b739-66d8a30be25e"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664310234461,"stop":1664310234480}],"start":1664310227349,"stop":1664310234508}

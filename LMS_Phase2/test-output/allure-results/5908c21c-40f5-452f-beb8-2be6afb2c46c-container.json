@@ -1,0 +1,1 @@
+{"uuid":"5908c21c-40f5-452f-beb8-2be6afb2c46c","name":"Scenario: change status","children":["92fa43f3-d85f-41a2-870d-921bf3b250f7"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312527171,"stop":1664312527171}],"start":1664312523026,"stop":1664312527175}

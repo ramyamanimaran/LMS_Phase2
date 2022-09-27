@@ -1,0 +1,1 @@
+{"uuid":"c666841e-303e-4680-a6f5-c7b505ab8683","name":"Scenario: Validate the footer","children":["f73c7f1a-2a63-4580-b1a4-a9661fc0063c"],"befores":[],"afters":[{"name":"stepDefinitions.steps.post_steps()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664312661596,"stop":1664312661597}],"start":1664312643065,"stop":1664312661597}
